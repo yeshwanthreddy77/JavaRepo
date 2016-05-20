@@ -1,1 +1,1 @@
-# This repo contains all Java Projects
+# Java Projects
