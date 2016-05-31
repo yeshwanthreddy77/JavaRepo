@@ -3,4 +3,9 @@
   <groupId>com.kdp.java.junit</groupId>
   <artifactId>JunitTesting</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <parent>
+  	<groupId>com.kdp.java</groupId>
+  	<artifactId>Java-Projects</artifactId>
+  	<version>1.0</version>
+  </parent>
 </project>
