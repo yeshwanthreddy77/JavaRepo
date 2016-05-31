@@ -1,4 +1,4 @@
-package com.kdp.junit;
+package com.kdp.java.junit;
 
 import java.util.Arrays;
 

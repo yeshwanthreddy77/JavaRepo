@@ -1,4 +1,4 @@
-package com.kdp.junit;
+package com.kdp.java.junit;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;

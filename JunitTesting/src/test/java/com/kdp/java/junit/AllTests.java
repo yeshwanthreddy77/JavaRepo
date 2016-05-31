@@ -1,4 +1,4 @@
-package com.kdp.junit;
+package com.kdp.java.junit;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
