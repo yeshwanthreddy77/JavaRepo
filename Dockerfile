@@ -1,6 +1,5 @@
 # Pull Base Image
 FROM java:8
-#ADD /HelloWorld/target/HelloWorld-0.0.1-SNAPSHOT.jar demo.jar
 
 #Install MAven
 RUN apt-get update
